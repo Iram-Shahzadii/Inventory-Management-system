@@ -13,26 +13,7 @@ GitHub: [Inventory-Management-system](https://github.com/Iram-Shahzadii/Inventor
 
 ## 🖥️ Demo
 
-```
-===== INVENTORY MANAGEMENT SYSTEM =====
-1. Add New Product
-2. Delete Product
-3. Update Quantity
-4. Search Product
-5. Show All Products (sorted by price)
-6. Show Low Stock Items
-7. Exit
-Choose an option (1-7): 1
-Product ID: 101
-Name: Samsung Phone
-Price: 20000
-Quantity: 50
-Category: Electronics
-'Samsung Phone' added successfully.
-LOG -> [2026-07-04 05:06:55] Action: add_product | Args: (101, 'Samsung Phone', 20000, 50, 'Electronics')
-```
-
-> 💡 Tip: Replace this with an actual screenshot or GIF of the terminal in action — it makes the README far more engaging for anyone visiting the repo.
+![Demo Screenshot](screenshot.png)
 
 ---
 
