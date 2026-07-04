@@ -1,0 +1,5 @@
+[2026-07-03 21:50:56] Action: add_product | Args: (101, 'Samsung Phone', 20000.0, 50, ' Electronics')
+[2026-07-03 21:55:38] Action: add_product | Args: (102, 'Charger', 500.0, 3, ' Electronics')
+[2026-07-03 22:10:39] Action: add_product | Args: (103, 'charger', 400.0, 30, 'ch')
+[2026-07-03 22:13:50] Action: update_quantity | Args: (101, 30, 'increase')
+[2026-07-03 22:15:28] Action: delete_product | Args: (101,)
